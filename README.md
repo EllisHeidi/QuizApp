@@ -27,9 +27,7 @@ This project generates **random quiz questions** from a local question set and t
 - **HTML** for structure  
 - **CSS** for styling  
 
-## 🛠️ Getting Started
 
-To run the app locally:
 
 
 
